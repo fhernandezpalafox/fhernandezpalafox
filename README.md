@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Flutter
 - 👯 I’m looking to collaborate on Android, iOS and web developement
 - 💬 Ask me about Android, iOS, Xamarin, Flutter, C#, Java, Kotlin
-- 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend most of my time reading Books and School teacher
 
 
