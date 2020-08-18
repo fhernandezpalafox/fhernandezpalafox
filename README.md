@@ -34,7 +34,7 @@
   <img align="left" alt="Felipe Hernandez Facebook" width="21px" src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2Ffacebook.svg?alt=media&token=bf3ea589-7c5c-4a0d-b839-8198ef39c502" />
 </a>
 
-<a href="https://www.facebook.com/felipe.hernandezpalafox">
+<a href="https://www.youtube.com/felipehernandezpalafox">
   <img align="left" alt="Felipe Hernandez YouTube" width="21px" src="https://user-images.githubusercontent.com/15971898/90500665-d22b4980-e110-11ea-9d44-fe75db088c9d.png" />
 </a>
 
