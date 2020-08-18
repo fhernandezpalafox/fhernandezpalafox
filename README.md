@@ -18,6 +18,10 @@
 |:---:|:---:|:---:|:---:|:---:|
 
 
+### Web
+|<img src="https://firebasestorage.googleapis.com/v0/b/github--images.appspot.com/o/Github%20images%2F1200px-Android_Studio_icon.svg.png?alt=media&token=c696a2c6-181d-4ef2-b235-a200306833ca" width=60> | <img src="https://user-images.githubusercontent.com/15971898/90470852-2b2fb900-e0e2-11ea-968b-b11d1cd9aeb5.png" width=60>| 
+:---:|:---:|
+
 
 ### Connect with me
 <a href="https://twitter.com/FelipeHPalafox">
