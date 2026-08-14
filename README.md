@@ -1,7 +1,7 @@
 ### Hola, I'm Felipe Hernández 👋
 
 Software developer based in León, Guanajuato, México, focused on building enterprise web and mobile applications, developing Artificial Intelligence solutions (Generative AI, Machine Learning and Deep Learning), automating workflows, and exploring cybersecurity. I also enjoy teaching and sharing knowledge through courses, bootcamps and tech talks.
-![Programacion](https://user-images.githubusercontent.com/15971898/90469229-e6098800-e0dd-11ea-8bc9-b68bd5b9befb.png)
+![Programacion](https://github.com/user-attachments/assets/46cd4b99-afb1-490c-8f02-40a6c7eab06a)
 
 - 🔭 I'm currently working on enterprise web and mobile applications, Artificial Intelligence solutions (Generative AI, Machine Learning, Deep Learning) and cybersecurity-related development
 -  🌱 I'm currently learning about AI agents, RAG/LLMs and cloud infrastructure
